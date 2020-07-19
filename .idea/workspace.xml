@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f64c490-4ff4-4bad-ba7c-66acaaad99a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure-java/datastructure/list/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure-java/datastructure/list/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure-java/datastructure/list/Node.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
