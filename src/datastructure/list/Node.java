@@ -1,7 +1,7 @@
 package datastructure.list;
 
-public class Node {
-    int value;
+public class Node<T> {
+    T value;
     Node next;
     public boolean hasNext(){
         if(next == null){
