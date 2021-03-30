@@ -1,5 +1,7 @@
 package datastructure.list;
 
+import java.util.Hashtable;
+
 public class Application {
     public static void main(String args[]) {
 
